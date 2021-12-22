@@ -11,6 +11,6 @@ Instructions:
 5. Upload RD_Receiver code in other (With the Servo).
 
 Follow Astirtech on:
-Facebook: https://www.facebook.com/astirtech/ 
-Instagram: https://www.instagram.com/astirtech/
-Website: https://www.astirtech.com
+1. Facebook: https://www.facebook.com/astirtech/ 
+2. Instagram: https://www.instagram.com/astirtech/
+3. Website: https://www.astirtech.com
